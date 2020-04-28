@@ -66,7 +66,7 @@ es:
   label_total_expense: Gastos totales
 
   label_wkexpense_reports: Informe de Gastos
-  label_spent_expense: Spent Expense
+  label_spent_expense: Gastos realizados
   label_wk_submission_deadline: Fecha límite de envío
   label_wk_nonsub_mail_subject: Non submission time notification
   label_wk_nonsub_mail_notification: Enviar correo electrónico cuando no se envían los informes
