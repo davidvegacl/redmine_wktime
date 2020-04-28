@@ -492,7 +492,7 @@ es:
   label_trans_total_validmsg: Transaction debit and credit does not match.
 
   label_crm: Clientes
-  label_lead_plural: Ventajas
+  label_lead_plural: Leads
   label_opportunity_plural: Oportunidades
   label_activity_plural: Actividades
   label_activity_type: Tipo de actividad
@@ -501,8 +501,8 @@ es:
   label_new_item_adjusted: "Nueva %{value}"
   label_new_item_third_case: "Nueva %{value}"
   label_edit_item: "Editar %{value}"
-  label_lead: Ventaja
-  label_lead_adjusted: Ventaja
+  label_lead: Lead
+  label_lead_adjusted: Lead
   label_content_information: "%{value} información"
   label_website: Sitio web
   label_department: Departamento
@@ -511,7 +511,7 @@ es:
   label_converted: Convertido
   label_recycled: Reciclado
   label_dead: Dead
-  label_lead_source: Fuente de ventaja
+  label_lead_source: Fuente de Lead
   label_opportunity_amount: Monto de oportunidad
   label_referred_by: Remitido por
   label_more: Mas
@@ -541,7 +541,7 @@ es:
   label_completed: Completos
   label_pending_input: Ingreso pendiente
   label_deferred: Deferred
-  button_convert_lead: Convertir ventaja
+  button_convert_lead: Convertir lead
   label_expected: Esperado
   label_business: Negocio
   label_existing: Existente
@@ -580,7 +580,7 @@ es:
   label_crm_user_group: Grupo de usuarios de clientes
   label_crm_admin_group: Grupo de administradores de clientes
   label_position: Posición
-  report_lead_conversion: Conversión de ventajas
+  report_lead_conversion: Conversión de leads
   report_sales_activity: Actividad de ventas
   label_sales_cycle: Ciclo de ventas
   label_conversion_rate: Tasa de conversión
@@ -892,9 +892,9 @@ es:
   label_no_of_users: Número de usuarios
   label_expense_for_issues: Gastos para peticiones
   label_total_expense_of_issues: Gastos totales para las peticiones
-  label_lead_generation_vs_conversion: Generación vs Conversión de ventajas
-  label_created_lead: Ventaja generada
-  label_converted_lead: Ventaja convertida
+  label_lead_generation_vs_conversion: Generación vs Conversión de Leads
+  label_created_lead: Lead generado
+  label_converted_lead: Lead convertido
   label_invoice_vs_payment_per_month: Facturación total vs Pagos total
   label_total_invoice: Total factura
   label_total_payment: Total pago
@@ -905,5 +905,5 @@ es:
   label_total_expense: Egresos Totales
   label_months: Meses
   label_amount : Monto
-  label_no_of_leads: Número de ventajas
+  label_no_of_leads: Número de leads
   label_no_of_employees: Número de empleados
