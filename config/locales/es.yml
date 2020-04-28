@@ -58,7 +58,7 @@ es:
   label_wk_next_week_tip: Semana siguiente
   label_wkexpense: Gastos
   label_te: Tiempo y Gastos
-  label_ta: Tiempo y Presentismo
+  label_ta: Tiempo y Asistencia
   label_wk_allow_user_filter_tracker: Permitir a los usuarios filtrar por rastrador
   label_wk_filter_issue_tracker: Filtrar peticiones por rastreador
   label_wk_currency: Moneda
@@ -137,7 +137,7 @@ es:
   text_wk_no_reminder: No hay recordatorios para enviar
 
 
-  report_attendance: Presentismo
+  report_attendance: Asistencia
   report_spent_time: Tiempo utilizado
   label_wk_break_time: Break Time
   label_wk_enable_clock_in_out: Enable Clock In / Clock Out
@@ -194,7 +194,7 @@ es:
   text_wk_warning_min_hour_week: "You have not entered the Minimum hours (%{value}) required per week"
   text_wk_warning_max_hour_week: "You have entered hours above Maximum hours (%{value}) allowed per week"
   label_enable_expense_module: Habilidar módulo de gastos
-  label_enable_attendance_module: Habilidar módulo de presentismo
+  label_enable_attendance_module: Habilidar módulo de asistencia
   label_enable_report_module: Activar Informes
   label_group_non_submission_email: Target group of non submission email
 
@@ -203,7 +203,7 @@ es:
   text_are_you_sure_want_to_run: "¿Está seguro que desea ejecutar este proceso?"
   label_clock: Marcar entrada/salida
   label_hours: Horas
-  label_import_attendance: Importar Presentismo
+  label_import_attendance: Importar Asistencia
   label_path: Import file path
   label_auto_import: Auto Importar
   label_auto_import_time: Auto Importar Cada
@@ -214,7 +214,7 @@ es:
   label_fields_in_file: Campos en el archivo
   label_import_file_headers: File Headers
   error_no_record_to_import: Ningún registro para importar
-  warning_fields_in_file_not_configured: Los campos en el archivo no están en la configuración del complemento de presentismo
+  warning_fields_in_file_not_configured: Los campos en el archivo no están en la configuración del complemento de asistencia
 
   label_payroll: Nómina
   label_basic: Pago básico
